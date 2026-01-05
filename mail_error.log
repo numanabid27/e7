@@ -1,0 +1,48 @@
+[09-Aug-2025 07:33:15 UTC] PHPMailer[1]: SMTP ERROR: Failed to connect to server:  (0)
+[09-Aug-2025 07:33:15 UTC] PHPMailer[2]: SMTP Error: Could not connect to SMTP host. Failed to connect to server
+[09-Aug-2025 07:33:21 UTC] PHPMailer[1]: SMTP ERROR: Failed to connect to server:  (0)
+[09-Aug-2025 07:33:21 UTC] PHPMailer[2]: SMTP Error: Could not connect to SMTP host. Failed to connect to server
+[09-Aug-2025 07:36:53 UTC] PHPMailer[2]: SERVER -> CLIENT: 220-13-233-86-54.cprapid.com ESMTP Exim 4.98.2 #2 Sat, 09 Aug 2025 07:36:53 +0000 
+220-We do not authorize the use of this system to transport unsolicited, 
+220 and/or bulk e-mail.
+[09-Aug-2025 07:36:53 UTC] PHPMailer[1]: CLIENT -> SERVER: EHLO electro7.com
+[09-Aug-2025 07:36:53 UTC] PHPMailer[2]: SERVER -> CLIENT: 250-13-233-86-54.cprapid.com Hello electro7.com [172.26.11.5]
+250-SIZE 52428800
+250-LIMITS MAILMAX=1000 RCPTMAX=50000
+250-8BITMIME
+250-PIPELINING
+250-PIPECONNECT
+250-AUTH PLAIN LOGIN
+250-STARTTLS
+250 HELP
+[09-Aug-2025 07:36:53 UTC] PHPMailer[1]: CLIENT -> SERVER: STARTTLS
+[09-Aug-2025 07:36:53 UTC] PHPMailer[2]: SERVER -> CLIENT: 220 TLS go ahead
+[09-Aug-2025 07:36:53 UTC] PHPMailer[2]: SMTP Error: Could not connect to SMTP host. Connection failed. stream_socket_enable_crypto(): SSL operation failed with code 1. OpenSSL Error messages:
+error:1416F086:SSL routines:tls_process_server_certificate:certificate verify failed
+[09-Aug-2025 07:36:53 UTC] PHPMailer[1]: CLIENT -> SERVER: QUIT
+[09-Aug-2025 07:36:53 UTC] PHPMailer[2]: SERVER -> CLIENT: #Ê%7>…¿xÉ³ZÏŸ4íØ>èˆ— k/s™ZtÏ˜@Y0}pwÒ!D#R«¨ÓŞÛšÍC®L°á"ñÑ&$q@ó=dE;Õü åsùW­ğİ›DˆÙt£œ*t×"‡‚r~ÉãË¡@'²ó s:ÌÓRºÿ4ä%_ÃË-.À :Ø}œ£š‰î€B·d‚ûL‚[Ç{ûóÉn¿b1Íµùïí§ı³0·¿z,“e•"Ó^ø\ú€Ñ|à³¸Ù–Ña'|ÑºWÖTÃÄæNKàûk¼óLàBrA'r¹:)„[¶ƒÕªµ›ËFF¢}@„²Yˆnl²‡tÜ«cœ° Ê²€3Öbß³e
+[09-Aug-2025 07:36:53 UTC] PHPMailer[1]: SMTP ERROR: QUIT command failed: #Ê%7>…¿xÉ³ZÏŸ4íØ>èˆ— k/s™ZtÏ˜@Y0}pwÒ!D#R«¨ÓŞÛšÍC®L°á"ñÑ&$q@ó=dE;Õü åsùW­ğİ›DˆÙt£œ*t×"‡‚r~ÉãË¡@'²ó s:ÌÓRºÿ4ä%_ÃË-.À :Ø}œ£š‰î€B·d‚ûL‚[Ç{ûóÉn¿b1Íµùïí§ı³0·¿z,“e•"Ó^ø\ú€Ñ|à³¸Ù–Ña'|ÑºWÖTÃÄæNKàûk¼óLàBrA'r¹:)„[¶ƒÕªµ›ËFF¢}@„²Yˆnl²‡tÜ«cœ° Ê²€3Öbß³e
+[09-Aug-2025 07:36:53 UTC] PHPMailer[2]: SMTP Error: Could not connect to SMTP host. Connection failed. stream_socket_enable_crypto(): SSL operation failed with code 1. OpenSSL Error messages:
+error:1416F086:SSL routines:tls_process_server_certificate:certificate verify failed
+[09-Aug-2025 07:37:08 UTC] PHPMailer[2]: SERVER -> CLIENT: 220-13-233-86-54.cprapid.com ESMTP Exim 4.98.2 #2 Sat, 09 Aug 2025 07:37:08 +0000 
+220-We do not authorize the use of this system to transport unsolicited, 
+220 and/or bulk e-mail.
+[09-Aug-2025 07:37:08 UTC] PHPMailer[1]: CLIENT -> SERVER: EHLO electro7.com
+[09-Aug-2025 07:37:08 UTC] PHPMailer[2]: SERVER -> CLIENT: 250-13-233-86-54.cprapid.com Hello electro7.com [172.26.11.5]
+250-SIZE 52428800
+250-LIMITS MAILMAX=1000 RCPTMAX=50000
+250-8BITMIME
+250-PIPELINING
+250-PIPECONNECT
+250-AUTH PLAIN LOGIN
+250-STARTTLS
+250 HELP
+[09-Aug-2025 07:37:08 UTC] PHPMailer[1]: CLIENT -> SERVER: STARTTLS
+[09-Aug-2025 07:37:08 UTC] PHPMailer[2]: SERVER -> CLIENT: 220 TLS go ahead
+[09-Aug-2025 07:37:08 UTC] PHPMailer[2]: SMTP Error: Could not connect to SMTP host. Connection failed. stream_socket_enable_crypto(): SSL operation failed with code 1. OpenSSL Error messages:
+error:1416F086:SSL routines:tls_process_server_certificate:certificate verify failed
+[09-Aug-2025 07:37:08 UTC] PHPMailer[1]: CLIENT -> SERVER: QUIT
+[09-Aug-2025 07:37:08 UTC] PHPMailer[2]: SERVER -> CLIENT: ¹Ó¢QÇ²iHB5=–@÷øIòOïÁ'İĞiæW€\Óîé]U	H#ç‡¬ĞD4„ï/b®¦‡0Â#šËª®¾™æqôÕ%	ı§İ/ôÙî¡‹é °,¯˜s×Æ^ÅÖX˜åŒÏ¼ïúÍøö>÷Ç”>O¼•”á3ÍÅRmÕíµ9FÃ5ùïÔå­ô\õj}[Ëñø[¡a_€ïòüšsãÍ>ÂÌû«ÂººäÁ!]C„³=YŞÅØõ{£ËBÊ™¾é—ÄLxŠ'Í}O‡™/tH¯2Ç.Bå(ÏÃÅnÉŞèr©4n\0ØÜC:˜L’¹íë+VCÒ°°Ïe|wßRÄb¾"‹_Ã­´Ÿ–:Ï©È
+[09-Aug-2025 07:37:08 UTC] PHPMailer[1]: SMTP ERROR: QUIT command failed: ¹Ó¢QÇ²iHB5=–@÷øIòOïÁ'İĞiæW€\Óîé]U	H#ç‡¬ĞD4„ï/b®¦‡0Â#šËª®¾™æqôÕ%	ı§İ/ôÙî¡‹é °,¯˜s×Æ^ÅÖX˜åŒÏ¼ïúÍøö>÷Ç”>O¼•”á3ÍÅRmÕíµ9FÃ5ùïÔå­ô\õj}[Ëñø[¡a_€ïòüšsãÍ>ÂÌû«ÂººäÁ!]C„³=YŞÅØõ{£ËBÊ™¾é—ÄLxŠ'Í}O‡™/tH¯2Ç.Bå(ÏÃÅnÉŞèr©4n\0ØÜC:˜L’¹íë+VCÒ°°Ïe|wßRÄb¾"‹_Ã­´Ÿ–:Ï©È
+[09-Aug-2025 07:37:08 UTC] PHPMailer[2]: SMTP Error: Could not connect to SMTP host. Connection failed. stream_socket_enable_crypto(): SSL operation failed with code 1. OpenSSL Error messages:
+error:1416F086:SSL routines:tls_process_server_certificate:certificate verify failed

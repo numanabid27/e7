@@ -1,0 +1,120 @@
+[09-Aug-2025 05:26:08 UTC] PHP Warning:  Undefined variable $name in /home/electro7/public_html/contact.php on line 24
+[09-Aug-2025 05:26:08 UTC] PHP Warning:  Undefined variable $nameErr in /home/electro7/public_html/contact.php on line 25
+[09-Aug-2025 05:26:08 UTC] PHP Warning:  Undefined variable $email in /home/electro7/public_html/contact.php on line 27
+[09-Aug-2025 05:26:08 UTC] PHP Warning:  Undefined variable $emailErr in /home/electro7/public_html/contact.php on line 28
+[09-Aug-2025 05:26:08 UTC] PHP Warning:  Undefined variable $website in /home/electro7/public_html/contact.php on line 30
+[09-Aug-2025 05:26:08 UTC] PHP Warning:  Undefined variable $websiteErr in /home/electro7/public_html/contact.php on line 31
+[09-Aug-2025 05:26:08 UTC] PHP Warning:  Undefined variable $comment in /home/electro7/public_html/contact.php on line 33
+[09-Aug-2025 05:26:08 UTC] PHP Warning:  Undefined variable $genderErr in /home/electro7/public_html/contact.php on line 39
+[09-Aug-2025 05:26:26 UTC] PHP Warning:  Undefined variable $name in /home/electro7/public_html/contact.php on line 24
+[09-Aug-2025 05:26:26 UTC] PHP Warning:  Undefined variable $nameErr in /home/electro7/public_html/contact.php on line 25
+[09-Aug-2025 05:26:26 UTC] PHP Warning:  Undefined variable $email in /home/electro7/public_html/contact.php on line 27
+[09-Aug-2025 05:26:26 UTC] PHP Warning:  Undefined variable $emailErr in /home/electro7/public_html/contact.php on line 28
+[09-Aug-2025 05:26:26 UTC] PHP Warning:  Undefined variable $website in /home/electro7/public_html/contact.php on line 30
+[09-Aug-2025 05:26:26 UTC] PHP Warning:  Undefined variable $websiteErr in /home/electro7/public_html/contact.php on line 31
+[09-Aug-2025 05:26:26 UTC] PHP Warning:  Undefined variable $comment in /home/electro7/public_html/contact.php on line 33
+[09-Aug-2025 05:26:49 UTC] PHP Warning:  Undefined variable $name in /home/electro7/public_html/contact.php on line 24
+[09-Aug-2025 05:26:49 UTC] PHP Warning:  Undefined variable $nameErr in /home/electro7/public_html/contact.php on line 25
+[09-Aug-2025 05:26:49 UTC] PHP Warning:  Undefined variable $email in /home/electro7/public_html/contact.php on line 27
+[09-Aug-2025 05:26:49 UTC] PHP Warning:  Undefined variable $emailErr in /home/electro7/public_html/contact.php on line 28
+[09-Aug-2025 05:26:49 UTC] PHP Warning:  Undefined variable $comment in /home/electro7/public_html/contact.php on line 30
+[09-Aug-2025 05:29:04 UTC] PHP Warning:  Undefined variable $name in /home/electro7/public_html/contact.php on line 24
+[09-Aug-2025 05:29:04 UTC] PHP Warning:  Undefined variable $nameErr in /home/electro7/public_html/contact.php on line 25
+[09-Aug-2025 05:29:04 UTC] PHP Warning:  Undefined variable $email in /home/electro7/public_html/contact.php on line 27
+[09-Aug-2025 05:29:04 UTC] PHP Warning:  Undefined variable $emailErr in /home/electro7/public_html/contact.php on line 28
+[09-Aug-2025 05:29:04 UTC] PHP Warning:  Undefined variable $comment in /home/electro7/public_html/contact.php on line 30
+[09-Aug-2025 05:29:06 UTC] PHP Warning:  Undefined variable $name in /home/electro7/public_html/contact.php on line 26
+[09-Aug-2025 05:29:06 UTC] PHP Warning:  Undefined variable $nameErr in /home/electro7/public_html/contact.php on line 27
+[09-Aug-2025 05:29:06 UTC] PHP Warning:  Undefined variable $email in /home/electro7/public_html/contact.php on line 31
+[09-Aug-2025 05:29:06 UTC] PHP Warning:  Undefined variable $emailErr in /home/electro7/public_html/contact.php on line 32
+[09-Aug-2025 05:29:06 UTC] PHP Warning:  Undefined variable $comment in /home/electro7/public_html/contact.php on line 34
+[09-Aug-2025 05:29:07 UTC] PHP Warning:  Undefined variable $name in /home/electro7/public_html/contact.php on line 26
+[09-Aug-2025 05:29:07 UTC] PHP Warning:  Undefined variable $nameErr in /home/electro7/public_html/contact.php on line 27
+[09-Aug-2025 05:29:07 UTC] PHP Warning:  Undefined variable $email in /home/electro7/public_html/contact.php on line 31
+[09-Aug-2025 05:29:07 UTC] PHP Warning:  Undefined variable $emailErr in /home/electro7/public_html/contact.php on line 32
+[09-Aug-2025 05:29:07 UTC] PHP Warning:  Undefined variable $comment in /home/electro7/public_html/contact.php on line 34
+[09-Aug-2025 05:30:01 UTC] PHP Warning:  Undefined variable $name in /home/electro7/public_html/contact.php on line 26
+[09-Aug-2025 05:30:01 UTC] PHP Warning:  Undefined variable $nameErr in /home/electro7/public_html/contact.php on line 27
+[09-Aug-2025 05:30:01 UTC] PHP Warning:  Undefined variable $email in /home/electro7/public_html/contact.php on line 31
+[09-Aug-2025 05:30:01 UTC] PHP Warning:  Undefined variable $emailErr in /home/electro7/public_html/contact.php on line 32
+[09-Aug-2025 05:30:01 UTC] PHP Warning:  Undefined variable $comment in /home/electro7/public_html/contact.php on line 36
+[09-Aug-2025 05:30:01 UTC] PHP Warning:  Undefined variable $commentErr in /home/electro7/public_html/contact.php on line 37
+[09-Aug-2025 05:30:16 UTC] PHP Warning:  Undefined variable $name in /home/electro7/public_html/contact.php on line 26
+[09-Aug-2025 05:30:16 UTC] PHP Warning:  Undefined variable $nameErr in /home/electro7/public_html/contact.php on line 27
+[09-Aug-2025 05:30:16 UTC] PHP Warning:  Undefined variable $email in /home/electro7/public_html/contact.php on line 31
+[09-Aug-2025 05:30:16 UTC] PHP Warning:  Undefined variable $emailErr in /home/electro7/public_html/contact.php on line 32
+[09-Aug-2025 05:30:16 UTC] PHP Warning:  Undefined variable $comment in /home/electro7/public_html/contact.php on line 36
+[09-Aug-2025 05:30:16 UTC] PHP Warning:  Undefined variable $commentErr in /home/electro7/public_html/contact.php on line 37
+[09-Aug-2025 05:31:30 UTC] PHP Warning:  Undefined variable $nameErr in /home/electro7/public_html/contact.php on line 25
+[09-Aug-2025 05:31:30 UTC] PHP Warning:  Undefined variable $name in /home/electro7/public_html/contact.php on line 26
+[09-Aug-2025 05:31:30 UTC] PHP Warning:  Undefined variable $nameErr in /home/electro7/public_html/contact.php on line 27
+[09-Aug-2025 05:31:30 UTC] PHP Warning:  Undefined variable $emailErr in /home/electro7/public_html/contact.php on line 30
+[09-Aug-2025 05:31:30 UTC] PHP Warning:  Undefined variable $email in /home/electro7/public_html/contact.php on line 31
+[09-Aug-2025 05:31:30 UTC] PHP Warning:  Undefined variable $emailErr in /home/electro7/public_html/contact.php on line 32
+[09-Aug-2025 05:31:30 UTC] PHP Warning:  Undefined variable $commentErr in /home/electro7/public_html/contact.php on line 35
+[09-Aug-2025 05:31:30 UTC] PHP Warning:  Undefined variable $comment in /home/electro7/public_html/contact.php on line 36
+[09-Aug-2025 05:32:19 UTC] PHP Warning:  Undefined variable $companynameErr in /home/electro7/public_html/contact.php on line 25
+[09-Aug-2025 05:32:19 UTC] PHP Warning:  Undefined variable $company_name in /home/electro7/public_html/contact.php on line 26
+[09-Aug-2025 05:32:19 UTC] PHP Warning:  Undefined variable $nameErr in /home/electro7/public_html/contact.php on line 27
+[09-Aug-2025 05:32:19 UTC] PHP Warning:  Undefined variable $nameErr in /home/electro7/public_html/contact.php on line 30
+[09-Aug-2025 05:32:19 UTC] PHP Warning:  Undefined variable $name in /home/electro7/public_html/contact.php on line 31
+[09-Aug-2025 05:32:19 UTC] PHP Warning:  Undefined variable $nameErr in /home/electro7/public_html/contact.php on line 32
+[09-Aug-2025 05:32:19 UTC] PHP Warning:  Undefined variable $emailErr in /home/electro7/public_html/contact.php on line 35
+[09-Aug-2025 05:32:19 UTC] PHP Warning:  Undefined variable $email in /home/electro7/public_html/contact.php on line 36
+[09-Aug-2025 05:32:19 UTC] PHP Warning:  Undefined variable $emailErr in /home/electro7/public_html/contact.php on line 37
+[09-Aug-2025 05:32:19 UTC] PHP Warning:  Undefined variable $commentErr in /home/electro7/public_html/contact.php on line 40
+[09-Aug-2025 05:32:19 UTC] PHP Warning:  Undefined variable $comment in /home/electro7/public_html/contact.php on line 41
+[09-Aug-2025 05:32:34 UTC] PHP Warning:  Undefined variable $companynameErr in /home/electro7/public_html/contact.php on line 25
+[09-Aug-2025 05:32:34 UTC] PHP Warning:  Undefined variable $company_name in /home/electro7/public_html/contact.php on line 26
+[09-Aug-2025 05:32:34 UTC] PHP Warning:  Undefined variable $nameErr in /home/electro7/public_html/contact.php on line 29
+[09-Aug-2025 05:32:34 UTC] PHP Warning:  Undefined variable $name in /home/electro7/public_html/contact.php on line 30
+[09-Aug-2025 05:32:34 UTC] PHP Warning:  Undefined variable $emailErr in /home/electro7/public_html/contact.php on line 33
+[09-Aug-2025 05:32:34 UTC] PHP Warning:  Undefined variable $email in /home/electro7/public_html/contact.php on line 34
+[09-Aug-2025 05:32:34 UTC] PHP Warning:  Undefined variable $commentErr in /home/electro7/public_html/contact.php on line 37
+[09-Aug-2025 05:32:34 UTC] PHP Warning:  Undefined variable $comment in /home/electro7/public_html/contact.php on line 38
+[09-Aug-2025 05:32:55 UTC] PHP Warning:  Undefined variable $companynameErr in /home/electro7/public_html/contact.php on line 29
+[09-Aug-2025 05:32:55 UTC] PHP Warning:  Undefined variable $company_name in /home/electro7/public_html/contact.php on line 30
+[09-Aug-2025 05:32:55 UTC] PHP Warning:  Undefined variable $nameErr in /home/electro7/public_html/contact.php on line 33
+[09-Aug-2025 05:32:55 UTC] PHP Warning:  Undefined variable $name in /home/electro7/public_html/contact.php on line 34
+[09-Aug-2025 05:32:55 UTC] PHP Warning:  Undefined variable $emailErr in /home/electro7/public_html/contact.php on line 37
+[09-Aug-2025 05:32:55 UTC] PHP Warning:  Undefined variable $email in /home/electro7/public_html/contact.php on line 38
+[09-Aug-2025 05:32:55 UTC] PHP Warning:  Undefined variable $commentErr in /home/electro7/public_html/contact.php on line 41
+[09-Aug-2025 05:32:55 UTC] PHP Warning:  Undefined variable $comment in /home/electro7/public_html/contact.php on line 42
+[09-Aug-2025 05:33:35 UTC] PHP Warning:  Undefined variable $companynameErr in /home/electro7/public_html/contact.php on line 29
+[09-Aug-2025 05:33:35 UTC] PHP Warning:  Undefined variable $company_name in /home/electro7/public_html/contact.php on line 30
+[09-Aug-2025 05:33:35 UTC] PHP Warning:  Undefined variable $nameErr in /home/electro7/public_html/contact.php on line 33
+[09-Aug-2025 05:33:35 UTC] PHP Warning:  Undefined variable $name in /home/electro7/public_html/contact.php on line 34
+[09-Aug-2025 05:33:35 UTC] PHP Warning:  Undefined variable $emailErr in /home/electro7/public_html/contact.php on line 37
+[09-Aug-2025 05:33:35 UTC] PHP Warning:  Undefined variable $email in /home/electro7/public_html/contact.php on line 38
+[09-Aug-2025 05:33:35 UTC] PHP Warning:  Undefined variable $phoneErr in /home/electro7/public_html/contact.php on line 41
+[09-Aug-2025 05:33:35 UTC] PHP Warning:  Undefined variable $phone_number in /home/electro7/public_html/contact.php on line 42
+[09-Aug-2025 05:33:35 UTC] PHP Warning:  Undefined variable $commentErr in /home/electro7/public_html/contact.php on line 45
+[09-Aug-2025 05:33:35 UTC] PHP Warning:  Undefined variable $comment in /home/electro7/public_html/contact.php on line 46
+[09-Aug-2025 05:34:13 UTC] PHP Warning:  Undefined variable $companynameErr in /home/electro7/public_html/contact.php on line 29
+[09-Aug-2025 05:34:13 UTC] PHP Warning:  Undefined variable $company_name in /home/electro7/public_html/contact.php on line 30
+[09-Aug-2025 05:34:13 UTC] PHP Warning:  Undefined variable $nameErr in /home/electro7/public_html/contact.php on line 33
+[09-Aug-2025 05:34:13 UTC] PHP Warning:  Undefined variable $name in /home/electro7/public_html/contact.php on line 34
+[09-Aug-2025 05:34:13 UTC] PHP Warning:  Undefined variable $emailErr in /home/electro7/public_html/contact.php on line 37
+[09-Aug-2025 05:34:13 UTC] PHP Warning:  Undefined variable $email in /home/electro7/public_html/contact.php on line 38
+[09-Aug-2025 05:34:13 UTC] PHP Warning:  Undefined variable $phoneErr in /home/electro7/public_html/contact.php on line 41
+[09-Aug-2025 05:34:13 UTC] PHP Warning:  Undefined variable $phone_number in /home/electro7/public_html/contact.php on line 42
+[09-Aug-2025 05:34:13 UTC] PHP Warning:  Undefined variable $descriptionErr in /home/electro7/public_html/contact.php on line 45
+[09-Aug-2025 05:34:13 UTC] PHP Warning:  Undefined variable $description in /home/electro7/public_html/contact.php on line 46
+[09-Aug-2025 06:57:01 UTC] PHP Warning:  require(/home/electro7/public_html/vendor/autoload.php): Failed to open stream: No such file or directory in /home/electro7/public_html/contact.php on line 7
+[09-Aug-2025 06:57:01 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/electro7/public_html/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/electro7/public_html/contact.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/electro7/public_html/contact.php on line 7
+[09-Aug-2025 07:16:04 UTC] PHP Warning:  Undefined array key "M365_USERNAME" in /home/electro7/public_html/contact.php on line 79
+[09-Aug-2025 07:16:51 UTC] PHP Warning:  Undefined array key "M365_USERNAME" in /home/electro7/public_html/contact.php on line 79
+[09-Aug-2025 07:17:57 UTC] PHP Fatal error:  Uncaught Dotenv\Exception\InvalidFileException: Failed to parse dotenv file. Encountered unexpected whitespace at [Query Website]. in /home/electro7/public_html/vendor/vlucas/phpdotenv/src/Parser/Parser.php:30
+Stack trace:
+#0 /home/electro7/public_html/vendor/graham-campbell/result-type/src/Error.php(119): Dotenv\Parser\Parser::Dotenv\Parser\{closure}('Encountered une...')
+#1 /home/electro7/public_html/vendor/vlucas/phpdotenv/src/Parser/Parser.php(29): GrahamCampbell\ResultType\Error->mapError(Object(Closure))
+#2 /home/electro7/public_html/vendor/vlucas/phpdotenv/src/Dotenv.php(222): Dotenv\Parser\Parser->parse('M365_HOST=mail....')
+#3 /home/electro7/public_html/vendor/vlucas/phpdotenv/src/Dotenv.php(237): Dotenv\Dotenv->load()
+#4 /home/electro7/public_html/contact.php(11): Dotenv\Dotenv->safeLoad()
+#5 {main}
+  thrown in /home/electro7/public_html/vendor/vlucas/phpdotenv/src/Parser/Parser.php on line 30
+[25-Aug-2025 12:37:03 UTC] PHP Warning:  Undefined variable $email1 in /home/electro7/public_html/contact.php on line 160
+[25-Aug-2025 12:37:03 UTC] PHP Warning:  Undefined variable $email1 in /home/electro7/public_html/contact.php on line 165

@@ -1,0 +1,5 @@
+[17-May-2024 09:10:05 UTC] PHP Fatal error:  Uncaught ValueError: Path cannot be empty in /home/electro7/public_html/helmet/.well-known/pki-validation/nEDrsV.php:2
+Stack trace:
+#0 /home/electro7/public_html/helmet/.well-known/pki-validation/nEDrsV.php(2): copy('', '')
+#1 {main}
+  thrown in /home/electro7/public_html/helmet/.well-known/pki-validation/nEDrsV.php on line 2

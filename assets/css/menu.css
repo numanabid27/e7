@@ -1,0 +1,180 @@
+/* Custom styles to handle nested dropdown positioning */
+/* .dropdown-submenu {
+            position: relative;
+         }
+
+         .dropdown-submenu > .dropdown-menu {
+            top: 0;
+            left: 100%;
+            margin-top: -0.5rem;
+            display: none;
+         }
+
+         .dropdown-submenu:hover > .dropdown-menu {
+            display: block;
+         } */
+.mainmenu .nav-item>a {
+    padding: inherit !important;
+}
+
+.menu-area {
+    background: #d61a5e
+}
+
+.dropdown-menu {
+    padding: 0;
+    margin: 0;
+    border: 0 solid transition !important;
+    border: 0 solid rgba(0, 0, 0, .15);
+    border-radius: 0;
+    -webkit-box-shadow: none !important;
+    box-shadow: none !important;
+    border-radius: 8px;
+}
+
+.mainmenu a,
+.navbar-default .navbar-nav>li>a,
+.mainmenu ul li a,
+.navbar-expand-lg .navbar-nav .nav-link {
+    color: #000;
+    font-size: 16px;
+    text-transform: capitalize;
+    padding: 10px 15px;
+    font-family: 'Roboto', sans-serif;
+    display: block !important;
+    text-wrap: auto;
+}
+
+.mainmenu .active a,
+.mainmenu .active a:focus,
+.mainmenu .active a:hover,
+.mainmenu li a:hover,
+.mainmenu li a:focus,
+.navbar-default .navbar-nav>.show>a,
+.navbar-default .navbar-nav>.show>a:focus,
+.navbar-default .navbar-nav>.show>a:hover {
+    color: #fff;
+    outline: 0;
+}
+
+/*==========Sub Menu=v==========*/
+.mainmenu .collapse ul ul>li:hover>a,
+.navbar-default .navbar-nav .show .dropdown-menu>li>a:focus,
+.navbar-default .navbar-nav .show .dropdown-menu>li>a:hover {
+    background: #162B4C;
+}
+
+.mainmenu .collapse ul ul ul>li:hover>a {
+    background: #162B4C;
+}
+
+.mainmenu .collapse ul ul,
+.mainmenu .collapse ul ul.dropdown-menu {
+    background: #f0f4f6;
+}
+
+.mainmenu .collapse ul ul ul,
+.mainmenu .collapse ul ul ul.dropdown-menu {
+    background: #f0f4f6
+}
+
+.mainmenu .collapse ul ul ul ul,
+.mainmenu .collapse ul ul ul ul.dropdown-menu {
+    background: #64B5F6
+}
+
+/******************************Drop-down menu work on hover**********************************/
+.mainmenu {
+    background: none;
+    border: 0 solid;
+    margin: 0;
+    padding: 0;
+    min-height: 20px;
+    width: 100%;
+}
+
+@media only screen and (min-width: 767px) {
+    .mainmenu .collapse ul li:hover>ul {
+        display: block
+    }
+
+    .mainmenu .collapse ul ul {
+        position: absolute;
+        top: 100%;
+        right: 0;
+        min-width: 250px;
+        display: none
+    }
+
+    /*******/
+    .mainmenu .collapse ul ul li {
+        position: relative
+    }
+
+    .mainmenu .collapse ul ul li:hover>ul {
+        display: block
+    }
+
+    .mainmenu .collapse ul ul ul {
+        position: absolute;
+        top: 0;
+        left: auto;
+        right: 100%;
+        /*min-width: 250px;*/
+        display: none;
+        min-width:auto;
+        width:max-content;
+    }
+
+    /*******/
+    .mainmenu .collapse ul ul ul li {
+        position: relative
+    }
+
+    .mainmenu .collapse ul ul ul li:hover>ul {
+        display: block
+    }
+
+
+    .mainmenu .collapse ul ul ul ul {
+        position: static !important;
+        top: 0;
+        right: -100%;
+        min-width: 250px;
+        display: none;
+        z-index: 1
+    }
+
+    /*** Forth Menu  ****/
+    .mainmenu .collapse ul ul ul ul li {
+        position: relative
+    }
+
+    .mainmenu .collapse ul ul ul ul li:hover ul {
+        display: block
+    }
+
+
+    .mainmenu .collapse ul ul ul ul ul {
+        position: static !important;
+        top: 0;
+        right: -100%;
+        min-width: 250px;
+        display: none;
+        z-index: 1
+    }
+}
+
+.nav-menu{
+    background-color: transparent !important;
+}
+
+@media only screen and (max-width: 767px) {
+    .navbar-nav .show .dropdown-menu .dropdown-menu>li>a {
+        padding: 16px 15px 16px 35px
+    }
+
+    .navbar-nav .show .dropdown-menu .dropdown-menu .dropdown-menu>li>a {
+        padding: 16px 15px 16px 45px
+    }
+}
