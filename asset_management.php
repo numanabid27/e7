@@ -1,4 +1,13 @@
-<?php include('header.php'); ?>
+<?php 
+// SEO Meta Tags for Asset Management Page
+$pageTitle = "Asset Management Solutions | NFC Technology";
+$pageDescription = "Digitize Asset Management with ELECTRO-7's patented NFC technology. Contactless identification and tracking of tools and equipment. Digital record keeping, secure document storage, maintenance history. Available for Construction, Manufacturing, Oil & Gas, and more industries.";
+$pageKeywords = "asset management, NFC tags, digital asset tracking, equipment management, maintenance tracking, NFC technology Dubai, asset management software, digital record keeping";
+$pageImage = "https://electro7.com/assets/images/header_images/asset_management.png";
+$pageUrl = "https://electro7.com/asset_management";
+$pageType = "product";
+
+include('header.php'); ?>
 <?php 
 
 $hasHeaderTag = true;
@@ -32,7 +41,7 @@ include('header_image.php'); ?>
 <div class="container-fluid p-md-5 custom_container mt-3">
     <div class="row">
         <div class="col-md-6 d-flex justify-content-center img-fluid-about" >
-             <img src="assets/images/product_images/asset_management_1.png" class="img-fluid">
+             <img src="assets/images/product_images/asset_management_1.png" alt="Digital Record Keeping Solution - Asset Management" title="Digital Record Keeping Solution - Asset Management" class="img-fluid" loading="lazy">
           </div>
         <div class="col-md-6 pr-5 align-content-center">
             <h2 class="custom_heading" style="font-weight: bolder; " id="tdr_hdng">Digital Record Keeping Solution</h2>
@@ -55,7 +64,7 @@ include('header_image.php'); ?>
 <div class="container-fluid p-md-5 custom_container">
     <div class="row">
         <div class="col-md-6 d-flex justify-content-center img-fluid-about" >
-             <img src="assets/images/product_images/asset_management_8.png" class="img-fluid">
+             <img src="assets/images/product_images/asset_management_8.png" alt="Industries Served - Asset Management Solutions" title="Industries Served - Asset Management Solutions" class="img-fluid" loading="lazy">
           </div>
         <div class="col-md-6 pr-5 align-content-center">
             <h2 class="custom_heading" style="font-weight: bolder; font-size: 30px; " id="tdr_hdng">Industries Served</h2>
@@ -81,7 +90,7 @@ include('header_image.php'); ?>
 <div class="container-fluid p-md-5 custom_container">
     <div class="row">
         <div class="col-md-6 d-flex justify-content-center img-fluid-about" >
-             <img src="assets/images/product_images/asset_management_2.png" class="img-fluid">
+             <img src="assets/images/product_images/asset_management_2.png" alt="Physical Features - NFC Asset Tags" title="Physical Features - NFC Asset Tags" class="img-fluid" loading="lazy">
           </div>
         <div class="col-md-6 pr-5 align-content-center">
             <h2 class="custom_heading" style="font-weight: bolder;" id="tdr_hdng">Physical Features</h2>
@@ -128,7 +137,7 @@ include('header_image.php'); ?>
             <div class="custom-card py-0 custom-card2">
                 <div class="row align-items-center text-left">
                     <div class="col-md-4">
-                        <img src="assets/images/product_images/asset_management_3.png" alt="Trading Across Image 1" class="img-fluid">
+                        <img src="assets/images/product_images/asset_management_3.png" alt="Supra Series - Robust Digital Chips for Asset Management" title="Supra Series - Robust Digital Chips for Asset Management" class="img-fluid" loading="lazy">
                     </div>
                     <div class="col-md-8">
                         <h4 class="mt-5">Supra Series: Robust Digital Chips</h4>
@@ -143,7 +152,7 @@ include('header_image.php'); ?>
             <div class="custom-card custom-card2 py-0">
                 <div class="row align-items-center text-left">
                     <div class="col-md-4">
-                        <img src="assets/images/product_images/asset_management_4.png" alt="Trading Across Image 1" class="img-fluid">
+                        <img src="assets/images/product_images/asset_management_4.png" alt="Superior Depth Performance - SupraTag Asset Management" title="Superior Depth Performance - SupraTag Asset Management" class="img-fluid" loading="lazy">
                     </div>
                     <div class="col-md-8">
                         <h4 class="mt-5">Superior Depth Performance</h4>
@@ -157,7 +166,7 @@ include('header_image.php'); ?>
             <div class="custom-card custom-card2 py-0">
                 <div class="row align-items-center text-left">
                     <div class="col-md-4">
-                        <img src="assets/images/product_images/asset_management_5.png" alt="Trading Across Image 1" class="img-fluid">
+                        <img src="assets/images/product_images/asset_management_5.png" alt="SupraHana Reader - NFC Asset Management Reader" title="SupraHana Reader - NFC Asset Management Reader" class="img-fluid" loading="lazy">
                     </div>
                     <div class="col-md-8">
                         <h4 class="mt-5">SupraHana Reader</h4>
@@ -177,7 +186,7 @@ include('header_image.php'); ?>
             <div class="custom-card custom-card2 py-0">
                 <div class="row align-items-center text-left">
                     <div class="col-md-4">
-                        <img src="assets/images/product_images/asset_management_6.png" alt="Trading Across Image 1" class="img-fluid">
+                        <img src="assets/images/product_images/asset_management_6.png" alt="SupraPin Reader - NFC Reader for Asset Management" title="SupraPin Reader - NFC Reader for Asset Management" class="img-fluid" loading="lazy">
                     </div>
                     <div class="col-md-8">
                         <h4 class="mt-5">SupraPin Reader</h4>
@@ -196,7 +205,7 @@ include('header_image.php'); ?>
             <div class="custom-card custom-card2 py-0">
                 <div class="row align-items-center text-left">
                     <div class="col-md-4">
-                        <img src="assets/images/product_images/asset_management_7.png" alt="Trading Across Image 1" class="img-fluid">
+                        <img src="assets/images/product_images/asset_management_7.png" alt="SupraATEX Tags - Explosive Environment Asset Tags" title="SupraATEX Tags - Explosive Environment Asset Tags" class="img-fluid" loading="lazy">
                     </div>
                     <div class="col-md-8">
                         <h4 class="mt-5">SupraATEX Tags</h4>

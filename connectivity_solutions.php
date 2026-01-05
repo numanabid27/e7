@@ -1,4 +1,13 @@
-<?php include('header.php'); ?>
+<?php 
+// SEO Meta Tags for Connectivity Solutions Page
+$pageTitle = "Industrial Communication & Control System | Wireless Connectivity";
+$pageDescription = "Revolutionary secure industrial wireless I/O connectivity and control from ELECTRO-7. Radio telemetry units for areas without 4G connectivity. TDRA approved ELPRO solutions. Available in Dubai, UAE.";
+$pageKeywords = "industrial communication, wireless I/O, radio telemetry, ELPRO, industrial control systems, wireless connectivity, TDRA approved, automation solutions Dubai";
+$pageImage = "https://electro7.com/assets/images/header_images/elpro.png";
+$pageUrl = "https://electro7.com/connectivity_solutions";
+$pageType = "product";
+
+include('header.php'); ?>
 <?php 
 
 
@@ -52,7 +61,7 @@ include('header_image.php'); ?>
 <div class="container-fluid p-md-5 custom_container" data-aos="fade-up" data-aos-duration="2000">
     <div class="row">
         <div class="col-md-6 d-flex justify-content-center img-fluid-about">
-             <img src="assets/images/product_images/elpro_2.png" class="img-fluid">
+             <img src="assets/images/product_images/elpro_2.png" alt="ELPRO Key Product Categories - Industrial Communication" title="ELPRO Key Product Categories - Industrial Communication" class="img-fluid" loading="lazy">
           </div>
         <div class="col-md-6 pr-5 align-content-center">
             <h2 class="custom_heading" style="font-weight: bolder; " id="tdr_hdng">Key Product Categories</h2>
@@ -80,43 +89,43 @@ include('header_image.php'); ?>
       <div class="col-md-3 my-1" >
          <div class="overlay-div">
              <span class="descr">Automation Industry</span>
-             <img src="assets/images/elpro/1.png" class="img-fluid">
+             <img src="assets/images/elpro/1.png" alt="Automation Industry - ELPRO Solutions" title="Automation Industry - ELPRO Solutions" class="img-fluid" loading="lazy">
          </div>
       </div>
       <div class="col-md-3 my-1" >
          <div class="overlay-div">
              <span class="descr">PLC Communication</span>
-             <img src="assets/images/elpro/2.png" class="img-fluid">
+             <img src="assets/images/elpro/2.png" alt="PLC Communication - ELPRO Solutions" title="PLC Communication - ELPRO Solutions" class="img-fluid" loading="lazy">
          </div>
       </div>
       <div class="col-md-3 my-1" >
          <div class="overlay-div">
              <span class="descr">Water Industries</span>
-             <img src="assets/images/elpro/3.png" class="img-fluid">
+             <img src="assets/images/elpro/3.png" alt="Water Industries - ELPRO Solutions" title="Water Industries - ELPRO Solutions" class="img-fluid" loading="lazy">
          </div>
       </div>
       <div class="col-md-3 my-1" >
          <div class="overlay-div">
              <span class="descr">Oil & Gas Industries</span>
-             <img src="assets/images/elpro/4.png" class="img-fluid">
+             <img src="assets/images/elpro/4.png" alt="Oil & Gas Industries - ELPRO Solutions" title="Oil & Gas Industries - ELPRO Solutions" class="img-fluid" loading="lazy">
          </div>
       </div>
       <div class="col-md-3 my-1" >
          <div class="overlay-div">
              <span class="descr">Agricultural Industries</span>
-             <img src="assets/images/elpro/5.png" class="img-fluid">
+             <img src="assets/images/elpro/5.png" alt="Agricultural Industries - ELPRO Solutions" title="Agricultural Industries - ELPRO Solutions" class="img-fluid" loading="lazy">
          </div>
       </div>
       <div class="col-md-3 my-1" >
          <div class="overlay-div">
              <span class="descr">Environmental Industries</span>
-             <img src="assets/images/elpro/6.png" class="img-fluid">
+             <img src="assets/images/elpro/6.png" alt="Environmental Industries - ELPRO Solutions" title="Environmental Industries - ELPRO Solutions" class="img-fluid" loading="lazy">
          </div>
       </div>
       <div class="col-md-3 my-1" >
          <div class="overlay-div">
              <span class="descr">Mining Industry</span>
-             <img src="assets/images/elpro/7.png" class="img-fluid">
+             <img src="assets/images/elpro/7.png" alt="Mining Industry - ELPRO Solutions" title="Mining Industry - ELPRO Solutions" class="img-fluid" loading="lazy">
          </div>
       </div>
    </div>

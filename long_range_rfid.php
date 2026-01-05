@@ -1,9 +1,18 @@
-<?php include('header.php'); ?>
+<?php 
+// SEO Meta Tags for Long Range RFID Page
+$pageTitle = "Long Range RFID Readers | Asset Management & Warehouse Solutions";
+$pageDescription = "Long Range RFID system for reliable asset management and warehouse solutions. Extended reach automatic detection and registration. Data-encrypted RFID readers for large and harsh environments. Available in Dubai, UAE.";
+$pageKeywords = "long range RFID, RFID readers, asset management RFID, warehouse RFID, automatic detection, RFID system Dubai, data-encrypted RFID, extended range RFID";
+$pageImage = "https://electro7.com/assets/images/header_images/long_range_rfid.png";
+$pageUrl = "https://electro7.com/long_range_rfid";
+$pageType = "product";
+
+include('header.php'); ?>
 <?php 
 
 $hasHeaderTag = true;
 $headerClass = "align-content-center";
-$headerText = "<h1 class='custom_heading'>Long Range RFID</h1><br/><br/><p>Introducing our long range Radio-Frequency Identification (RFID) system as your reliable asset management and warehouse solution.
+$headerText = "<h1 class='custom_heading'>Long Range RFID</h1><br/><p>Introducing our long range Radio-Frequency Identification (RFID) system as your reliable asset management and warehouse solution.
 <br/>
 <p class='custom_text'>The extended reach enables your enterprise to automatically detect, register and label the product safely into your system by passing through an electrical gate, reducing labor-intensive reading procedures.</p>
 <br/>
@@ -14,7 +23,7 @@ include('header_image.php'); ?>
 <div class="container-fluid p-md-5 custom_container">
     <div class="row">
         <div class="col-md-6">
-            <img src="assets/images/product_images/long_range_rfid_1.png" class="img-fluid">
+            <img src="assets/images/product_images/long_range_rfid_1.png" alt="Long Range RFID Readers - Key Features" title="Long Range RFID Readers - Key Features" class="img-fluid" loading="lazy">
         </div>
         <div class="col-md-6 pr-5 align-content-center">
             <h2 class="custom_heading" id="tdr_hdng ">Key Features</h2>
@@ -43,7 +52,7 @@ include('header_image.php'); ?>
 <div class="container-fluid p-md-5 custom_container">
     <div class="row">
         <div class="col-md-6">
-            <img src="assets/images/product_images/long_range_rfid_2.png" class="img-fluid">
+            <img src="assets/images/product_images/long_range_rfid_2.png" alt="Supply Chain Productivity - Long Range RFID Solutions" title="Supply Chain Productivity - Long Range RFID Solutions" class="img-fluid" loading="lazy">
         </div>
         <div class="col-md-6 pr-5 align-content-center">
             <h2 class="custom_heading" id="tdr_hdng">Supply Chain Productivity</h2>
@@ -68,49 +77,49 @@ include('header_image.php'); ?>
       <div class="col-md-3 my-1" >
          <div class="overlay-div">
              <span class="descr">Aviation Industry</span>
-             <img src="assets/images/rfid/1.png" class="img-fluid">
+             <img src="assets/images/rfid/1.png" alt="Aviation Industry - Long Range RFID Solutions" title="Aviation Industry - Long Range RFID Solutions" class="img-fluid" loading="lazy">
          </div>
       </div>
       <div class="col-md-3 my-1" >
          <div class="overlay-div">
              <span class="descr">Pharmaceutical Industries</span>
-             <img src="assets/images/rfid/2.png" class="img-fluid">
+             <img src="assets/images/rfid/2.png" alt="Pharmaceutical Industries - Long Range RFID Solutions" title="Pharmaceutical Industries - Long Range RFID Solutions" class="img-fluid" loading="lazy">
          </div>
       </div>
       <div class="col-md-3 my-1" >
          <div class="overlay-div">
              <span class="descr">Oil & Gas</span>
-             <img src="assets/images/rfid/3.png" class="img-fluid">
+             <img src="assets/images/rfid/3.png" alt="Oil & Gas - Long Range RFID Solutions" title="Oil & Gas - Long Range RFID Solutions" class="img-fluid" loading="lazy">
          </div>
       </div>
       <div class="col-md-3 my-1" >
          <div class="overlay-div">
              <span class="descr">Warehousing</span>
-             <img src="assets/images/rfid/4.png" class="img-fluid">
+             <img src="assets/images/rfid/4.png" alt="Warehousing - Long Range RFID Solutions" title="Warehousing - Long Range RFID Solutions" class="img-fluid" loading="lazy">
          </div>
       </div>
       <div class="col-md-3 my-1" >
          <div class="overlay-div">
              <span class="descr">Retail Industry</span>
-             <img src="assets/images/rfid/5.png" class="img-fluid">
+             <img src="assets/images/rfid/5.png" alt="Retail Industry - Long Range RFID Solutions" title="Retail Industry - Long Range RFID Solutions" class="img-fluid" loading="lazy">
          </div>
       </div>
       <div class="col-md-3 my-1" >
          <div class="overlay-div">
              <span class="descr">Construction</span>
-             <img src="assets/images/rfid/6.png" class="img-fluid">
+             <img src="assets/images/rfid/6.png" alt="Construction - Long Range RFID Solutions" title="Construction - Long Range RFID Solutions" class="img-fluid" loading="lazy">
          </div>
       </div>
       <div class="col-md-3 my-1" >
          <div class="overlay-div">
              <span class="descr">Corporate</span>
-             <img src="assets/images/rfid/7.png" class="img-fluid">
+             <img src="assets/images/rfid/7.png" alt="Corporate - Long Range RFID Solutions" title="Corporate - Long Range RFID Solutions" class="img-fluid" loading="lazy">
          </div>
       </div>
       <div class="col-md-3 my-1" >
          <div class="overlay-div">
              <span class="descr">Entertainment Industries</span>
-             <img src="assets/images/rfid/8.png" class="img-fluid">
+             <img src="assets/images/rfid/8.png" alt="Entertainment Industries - Long Range RFID Solutions" title="Entertainment Industries - Long Range RFID Solutions" class="img-fluid" loading="lazy">
          </div>
       </div>
    </div>

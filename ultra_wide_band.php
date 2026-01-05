@@ -1,4 +1,13 @@
-<?php include('header.php'); ?>
+<?php 
+// SEO Meta Tags for RTLS Solutions Page
+$pageTitle = "RTLS Solutions | Ultra Wide Band Technology";
+$pageDescription = "Real-Time Location System (RTLS) using Ultra Wide Band (UWB) technology. Centimeter-level precision tracking for personnel and equipment. Industry 4.0 solutions for safer, coordinated workspaces. Available in Dubai, UAE.";
+$pageKeywords = "RTLS, real-time location system, UWB, ultra wide band, location tracking, Industry 4.0, personnel tracking, equipment tracking, precision tracking Dubai";
+$pageImage = "https://electro7.com/assets/images/header_images/ultra_wide_band.png";
+$pageUrl = "https://electro7.com/ultra_wide_band";
+$pageType = "product";
+
+include('header.php'); ?>
 <?php 
 
 $hasHeaderTag = true;
@@ -51,7 +60,7 @@ include('header_image.php'); ?>
 <div class="container-fluid p-md-5 custom_container">
    <div class="row">
       <div class="col-md-6 d-flex justify-content-center" >
-         <img src="assets/images/product_images/ultra_wide_band_2.png" class="img-fluid">
+         <img src="assets/images/product_images/ultra_wide_band_2.png" alt="Precise Tracking - RTLS Ultra Wide Band Solutions" title="Precise Tracking - RTLS Ultra Wide Band Solutions" class="img-fluid" loading="lazy">
       </div>
       <div class="col-md-6 pr-5 align-content-center" >
          <h2 class="custom_heading"  style="font-weight: bolder;" id="tdr_hdng">Precise Tracking</h2>
@@ -74,49 +83,49 @@ include('header_image.php'); ?>
       <div class="col-md-3 my-1" >
          <div class="overlay-div">
              <span class="descr">Colleges and Universities</span>
-             <img src="assets/images/rtls/1.png" class="img-fluid">
+             <img src="assets/images/rtls/1.png" alt="Colleges and Universities - RTLS Solutions" title="Colleges and Universities - RTLS Solutions" class="img-fluid" loading="lazy">
          </div>
       </div>
       <div class="col-md-3 my-1" >
          <div class="overlay-div">
              <span class="descr">Industrial Fields</span>
-             <img src="assets/images/rtls/2.png" class="img-fluid">
+             <img src="assets/images/rtls/2.png" alt="Industrial Fields - RTLS Solutions" title="Industrial Fields - RTLS Solutions" class="img-fluid" loading="lazy">
          </div>
       </div>
       <div class="col-md-3 my-1" >
          <div class="overlay-div">
              <span class="descr">Oil & Gas</span>
-             <img src="assets/images/rtls/3.png" class="img-fluid">
+             <img src="assets/images/rtls/3.png" alt="Oil & Gas - RTLS Solutions" title="Oil & Gas - RTLS Solutions" class="img-fluid" loading="lazy">
          </div>
       </div>
       <div class="col-md-3 my-1" >
          <div class="overlay-div">
              <span class="descr">Schools</span>
-             <img src="assets/images/rtls/4.png" class="img-fluid">
+             <img src="assets/images/rtls/4.png" alt="Schools - RTLS Solutions" title="Schools - RTLS Solutions" class="img-fluid" loading="lazy">
          </div>
       </div>
       <div class="col-md-3 my-1" >
          <div class="overlay-div">
              <span class="descr">Warehousing</span>
-             <img src="assets/images/rtls/5.png" class="img-fluid">
+             <img src="assets/images/rtls/5.png" alt="Warehousing - RTLS Solutions" title="Warehousing - RTLS Solutions" class="img-fluid" loading="lazy">
          </div>
       </div>
       <div class="col-md-3 my-1" >
          <div class="overlay-div">
              <span class="descr">Hospitals and Healthcare</span>
-             <img src="assets/images/rtls/6.png" class="img-fluid">
+             <img src="assets/images/rtls/6.png" alt="Hospitals and Healthcare - RTLS Solutions" title="Hospitals and Healthcare - RTLS Solutions" class="img-fluid" loading="lazy">
          </div>
       </div>
       <div class="col-md-3 my-1" >
          <div class="overlay-div">
              <span class="descr">High Accuracy</span>
-             <img src="assets/images/rtls/7.png" class="img-fluid">
+             <img src="assets/images/rtls/7.png" alt="High Accuracy - RTLS Solutions" title="High Accuracy - RTLS Solutions" class="img-fluid" loading="lazy">
          </div>
       </div>
       <div class="col-md-3 my-1" >
          <div class="overlay-div">
              <span class="descr">Fabrication Lines</span>
-             <img src="assets/images/rtls/8.png" class="img-fluid">
+             <img src="assets/images/rtls/8.png" alt="Fabrication Lines - RTLS Solutions" title="Fabrication Lines - RTLS Solutions" class="img-fluid" loading="lazy">
          </div>
       </div>
    </div>

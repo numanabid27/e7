@@ -1,4 +1,13 @@
-<?php include('header.php'); ?>
+<?php 
+// SEO Meta Tags for Solar Lamp Post Page
+$pageTitle = "Solar Lamp Post | Sustainable Outdoor Lighting";
+$pageDescription = "Solar Lamp Post from ELECTRO-7 - Sustainable outdoor lighting solution. Eco-friendly illumination for streets, parks, and public spaces. Energy-efficient, weather-resistant design. Available in Dubai, UAE.";
+$pageKeywords = "solar lamp post, solar street lights, outdoor solar lighting, sustainable lighting, solar powered lights, public space lighting, eco-friendly lighting Dubai";
+$pageImage = "https://electro7.com/assets/images/header_images/solar_lamp_post.png";
+$pageUrl = "https://electro7.com/solar_lamp_post";
+$pageType = "product";
+
+include('header.php'); ?>
 <?php 
 
 $hasHeaderTag = true;
@@ -13,7 +22,7 @@ include('header_image.php'); ?>
 <div class="custom_container p-md-5 p-3 container_fluid" data-aos="fade-up" data-aos-duration="2000">
     <div class="row align-items-center">
         <div class="col-md-6 overlay-div">
-            <img src="assets/images/product_images/solar_lamp_post_1.png" class="img-fluid">
+            <img src="assets/images/product_images/solar_lamp_post_1.png" alt="Solar Lamp Post - Clean Energy Outdoor Lighting" title="Solar Lamp Post - Clean Energy Outdoor Lighting" class="img-fluid" loading="lazy">
         </div>
         <div class="col-md-6">
             <h2 class="custom_heading" style="font-weight: bolder;" id="tdr_hdng">Clean Energy</h2>
@@ -41,7 +50,7 @@ include('header_image.php'); ?>
 <div class="custom_container p-md-5 p-3 container_fluid" data-aos="fade-up" data-aos-duration="2000">
     <div class="row align-items-center">
         <div class="col-md-6 overlay-div">
-            <img src="assets/images/product_images/solar_lamp_post_2.png" class="img-fluid">
+            <img src="assets/images/product_images/solar_lamp_post_2.png" alt="Why Choose E7 Solar Lamps - Solar-Powered Efficiency" title="Why Choose E7 Solar Lamps - Solar-Powered Efficiency" class="img-fluid" loading="lazy">
         </div>
         <div class="col-md-6">
             <h2 class="custom_heading" style="font-weight: bolder;" id="tdr_hdng">Why Choose E7 Solar Lamps?</h2>

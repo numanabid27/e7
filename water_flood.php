@@ -1,4 +1,13 @@
-<?php include('header.php'); ?>
+<?php 
+// SEO Meta Tags for Water & Flood Monitoring Page
+$pageTitle = "Water & Flood Monitoring Solutions | Intelligent Water Management";
+$pageDescription = "Advanced water and flood monitoring solutions from ELECTRO-7. Sensors, controllers, and telemetry systems for data-driven water management. Over 50 years of industry expertise. Available in Dubai, UAE.";
+$pageKeywords = "water monitoring, flood monitoring, water sensors, telemetry systems, water management, flood detection, intelligent water management Dubai";
+$pageImage = "https://electro7.com/assets/images/header_images/aquamonix.png";
+$pageUrl = "https://electro7.com/water_flood";
+$pageType = "product";
+
+include('header.php'); ?>
 <?php 
 
 $hasHeaderTag = true;
@@ -14,7 +23,7 @@ include('header_image.php'); ?>
 <div class="container-fluid p-md-5 custom_container" data-aos="fade-up" data-aos-duration="2000">
     <div class="row">
         <div class="col-md-6 d-flex justify-content-center overlay-div">
-            <img src="assets/images/product_images/aquamonix_1.png" class="img-fluid">
+            <img src="assets/images/product_images/aquamonix_1.png" alt="Water Solutions - Aquamonix Water Management" title="Water Solutions - Aquamonix Water Management" class="img-fluid" loading="lazy">
         </div>
         <div class="col-md-6 pr-5 align-content-center">
             <h2 class="custom_heading" style="font-weight: bolder;" id="tdr_hdng">Water Solutions</h2>
@@ -29,7 +38,7 @@ include('header_image.php'); ?>
 <div class="container-fluid p-md-5 custom_container" data-aos="fade-up" data-aos-duration="2000">
     <div class="row">
         <div class="col-md-6 d-flex justify-content-center overlay-div">
-            <img src="assets/images/product_images/aquamonix_6.png" class="img-fluid">
+            <img src="assets/images/product_images/aquamonix_6.png" alt="Flood Monitoring Solutions - Early Detection Systems" title="Flood Monitoring Solutions - Early Detection Systems" class="img-fluid" loading="lazy">
         </div>
         <div class="col-md-6 pr-5 align-content-center">
             <h2 class="custom_heading" style="font-weight: bolder;" id="tdr_hdng">Flood Monitoring Solutions</h2>
@@ -50,7 +59,7 @@ Using Variable Message Signs (VMS) with remote activation (Cloud-based), you can
             <div class="custom-card custom-card2 py-0">
                 <div class="row align-items-center text-left">
                     <div class="col-md-4">
-                        <img src="assets/images/product_images/aquamonix_2.png" alt="Trading Across Image 1" class="img-fluid">
+                        <img src="assets/images/product_images/aquamonix_2.png" alt="Disaster Management - Aquamonix Solutions" title="Disaster Management - Aquamonix Solutions" class="img-fluid" loading="lazy">
                     </div>
                     <div class="col-md-8">
                         <h4 class="mt-5"><strong>Disaster Management</strong></h4>
@@ -65,7 +74,7 @@ Using Variable Message Signs (VMS) with remote activation (Cloud-based), you can
             <div class="custom-card custom-card2 py-0">
                 <div class="row align-items-center text-left">
                     <div class="col-md-4">
-                        <img src="assets/images/product_images/aquamonix_3.png" alt="Trading Across Image 1" class="img-fluid">
+                        <img src="assets/images/product_images/aquamonix_3.png" alt="Irrigation Solutions - Aquamonix Water Management" title="Irrigation Solutions - Aquamonix Water Management" class="img-fluid" loading="lazy">
                     </div>
                     <div class="col-md-8">
                         <h4 class="mt-5"><strong>Irrigation</strong></h4>
@@ -80,7 +89,7 @@ Using Variable Message Signs (VMS) with remote activation (Cloud-based), you can
             <div class="custom-card custom-card2 py-0">
                 <div class="row align-items-center text-left">
                     <div class="col-md-4">
-                        <img src="assets/images/product_images/aquamonix_4.png" alt="Trading Across Image 1" class="img-fluid">
+                        <img src="assets/images/product_images/aquamonix_4.png" alt="Environmental Solutions - Aquamonix Water Management" title="Environmental Solutions - Aquamonix Water Management" class="img-fluid" loading="lazy">
                     </div>
                     <div class="col-md-8">
                         <h4 class="mt-5"><strong>Environmental</strong></h4>
@@ -95,7 +104,7 @@ Using Variable Message Signs (VMS) with remote activation (Cloud-based), you can
             <div class="custom-card custom-card2 py-0">
                 <div class="row align-items-center text-left">
                     <div class="col-md-4">
-                        <img src="assets/images/product_images/aquamonix_5.png" alt="Trading Across Image 1" class="img-fluid">
+                        <img src="assets/images/product_images/aquamonix_5.png" alt="Data Analytics - ENVAULT Platform Solutions" title="Data Analytics - ENVAULT Platform Solutions" class="img-fluid" loading="lazy">
                     </div>
                     <div class="col-md-8">
                         <h4 class="mt-5"><strong>Data Analytics</strong></h4>

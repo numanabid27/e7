@@ -1,4 +1,13 @@
-<?php include('header.php'); ?>
+<?php 
+// SEO Meta Tags for Home Page
+$pageTitle = "ELECTRO-7 GENERAL TRADING LLC | Trading Without Boundaries";
+$pageDescription = "ELECTRO-7 General Trading LLC - Leading technology solutions and trading company in Dubai, UAE. Specializing in RTLS, RFID, Asset Management, Solar Solutions, and Water Management. Established in 2015, we bridge global suppliers and retailers with quality products.";
+$pageKeywords = "ELECTRO-7, Dubai trading company, technology solutions Dubai, RTLS solutions, RFID readers, asset management, solar glass, solar panels, water management, UAE trading, Dubai business";
+$pageImage = "https://electro7.com/assets/images/header_images/about.png";
+$pageUrl = "https://electro7.com/";
+$pageType = "website";
+
+include('header.php'); ?>
 <style>
 #header-image-container {
     background-size: cover;
@@ -23,7 +32,7 @@
 <div class="container-fluid p-md-5 custom_container about_us_sec_spacing">
     <div class="row">
         <div class="col-md-6">
-            <img src="assets/images/product_images/about_1.png" class="img-fluid img-fluid-about">
+            <img src="assets/images/product_images/about_1.png" alt="ELECTRO-7 General Trading LLC - About Us" title="ELECTRO-7 General Trading LLC - About Us" class="img-fluid img-fluid-about" loading="lazy">
         </div>
         <div class="col-md-6 pr-md-5">
             <h2 class="custom_heading"  id="tdr_hdng">About Us</h2>
@@ -52,7 +61,7 @@
             </p>
         </div>
         <div class="col-md-6">
-            <img src="assets/images/product_images/about_2.png" class="img-fluid img-fluid-about" id="tdr_hdng">
+            <img src="assets/images/product_images/about_2.png" alt="ELECTRO-7 History - Established 2015 Dubai UAE" title="ELECTRO-7 History - Established 2015 Dubai UAE" class="img-fluid img-fluid-about" id="tdr_hdng" loading="lazy">
         </div>
     </div>
 </div>
@@ -69,7 +78,7 @@
                 <div class="custom_container container-fluid slider_container">
                     <div class="row align-items-center">
                         <div class="col-md-6 slider_img">
-                            <img src="assets/images/product_images/about_3.png" class="img-fluid">
+                            <img src="assets/images/product_images/about_3.png" alt="Global Sourcing and Supply Chain Management" title="Global Sourcing and Supply Chain Management" class="img-fluid" loading="lazy">
                         </div>
                         <div class="col-md-6 px-md-5">
                             <h2 class="font-weight-bold slide_heading" id="tdr_hdng">Global Sourcing</h2>
@@ -93,7 +102,7 @@
             <div class="container-fluid p-5 bg-color-light-grey">
                 <div class="row align-items-center">
                     <div class="col-md-6 slider_img">
-                        <img src="assets/images/product_images/about_3.png" class="img-fluid">
+                        <img src="assets/images/product_images/about_3.png" alt="Market Insight & Innovation" title="Market Insight & Innovation" class="img-fluid" loading="lazy">
                     </div>
                     <div class="col-md-6 px-md-5">
                         <h2 class="font-weight-bold slide_heading" id="tdr_hdng">Market Insight & Innovation</h2>
@@ -110,11 +119,11 @@
             </div>
         </div>
     </div>
-    <a class="carousel-control-prev" href="#aboutUsIndicators" role="button" data-slide="prev">
+    <a class="carousel-control-prev" href="#aboutUsIndicators" role="button" data-slide="prev" title="Previous Slide">
         <span class="carousel-control-prev-icon" aria-hidden="true"></span>
         <span class="sr-only">Previous</span>
     </a>
-    <a class="carousel-control-next" href="#aboutUsIndicators" role="button" data-slide="next">
+    <a class="carousel-control-next" href="#aboutUsIndicators" role="button" data-slide="next" title="Next Slide">
         <span class="carousel-control-next-icon" aria-hidden="true"></span>
         <span class="sr-only">Next</span>
     </a>
@@ -122,7 +131,7 @@
 
 <div class="my-5">
     <div class="image-container about_4_img">
-        <img src="assets/images/product_images/about_4.png" alt="Solar Glass">
+        <img src="assets/images/product_images/about_4.png" alt="ELECTRO-7 Technology Solutions and Services" title="ELECTRO-7 Technology Solutions and Services" loading="lazy">
     </div>
 </div>
 
@@ -130,7 +139,7 @@
     <div class="row">
         <div class="col-md-4 col-sm-4 mb-md-0 mb-3">
             <div class="custom-card">
-                <img src="assets/images/product_images/about_5.png" alt="Trading Across Image 1" class="img-fluid">
+                <img src="assets/images/product_images/about_5.png" alt="ELECTRO-7 Vision Statement - Dubai Vision D33" title="ELECTRO-7 Vision Statement - Dubai Vision D33" class="img-fluid" loading="lazy">
                 <h2 class="mt-5 slide_heading">Vision Statement</h2>
                 <p class="custom_text">We aspire to lead in delivering innovative and efficient technological solutions that drive
                     operational excellence and safety across industries. Our vision is at par with Dubai Vision D33, as
@@ -139,7 +148,7 @@
         </div>
         <div class="col-md-4 col-sm-4 mb-md-0 mb-3">
             <div class="custom-card">
-                <img src="assets/images/product_images/about_6.png" alt="Trading Across Image 2" class="img-fluid">
+                <img src="assets/images/product_images/about_6.png" alt="ELECTRO-7 Mission Statement - Technology Solutions" title="ELECTRO-7 Mission Statement - Technology Solutions" class="img-fluid" loading="lazy">
                 <h2 class="mt-5 slide_heading">Mission Statement</h2>
                 <p class="custom_text">Our mission is to deliver innovative and reliable technological solutions that enhance operational
                     competence and security for businesses worldwide. We are committed to providing top-tier service and
@@ -148,7 +157,7 @@
         </div>
         <div class="col-md-4 col-sm-4 mb-md-0 mb-3">
             <div class="custom-card">
-                <img src="assets/images/product_images/about_7.png" alt="Trading Across Image 3" class="img-fluid">
+                <img src="assets/images/product_images/about_7.png" alt="ELECTRO-7 Quality Statement - Sustainable Solutions" title="ELECTRO-7 Quality Statement - Sustainable Solutions" class="img-fluid" loading="lazy">
                 <h2 class="mt-5 slide_heading">Quality Statement</h2>
                 <p class="custom_text">We deliver top-notch products and services with a focus on quality. Our commitment to sustainability
                     drives us to use eco-friendly materials, reduce waste, and promote energy efficiency. By embedding

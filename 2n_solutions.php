@@ -1,4 +1,13 @@
-<?php include('header.php'); ?>
+<?php 
+// SEO Meta Tags for 2N Solutions Page
+$pageTitle = "2N Security Solutions | Intercoms & Access Control | ELECTRO-7 Dubai, UAE";
+$pageDescription = "2N Security Solutions from ELECTRO-7. Residential, commercial, and cyber security solutions. Intercoms, access readers, indoor stations, elevator systems, and management platforms. Available in Dubai, UAE.";
+$pageKeywords = "2N solutions, security intercoms, access control, access readers, indoor stations, elevator systems, cyber security, security solutions Dubai";
+$pageImage = "https://electro7.com/assets/images/header_images/2n.png";
+$pageUrl = "https://electro7.com/2n_solutions";
+$pageType = "product";
+
+include('header.php'); ?>
 <?php 
 
 
@@ -13,7 +22,7 @@ include('header_image.php'); ?>
 <div class="container p-5" data-aos="fade-up" data-aos-duration="2000">
     <div class="row">
         <div class="col-md-6">
-            <img src="assets/images/product_images/2n.png" class="img-fluid">
+            <img src="assets/images/product_images/2n.png" alt="2N Security Solutions - Intercoms and Access Control" title="2N Security Solutions - Intercoms and Access Control" class="img-fluid" loading="lazy">
         </div>
         <div class="col-md-6 px-5 ">
             <h2 style="font-weight: bolder; font-size: 30px; " id="tdr_hdng">Security Solutions</h2>

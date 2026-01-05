@@ -24,23 +24,23 @@
     <div class="container-fluid px-md-5 py-5 custom_container">
         <div class="row">
             <div class="col-md-6 align-content-center footer_logo">
-                <a href="/"><img src="assets/images/footer_logo.png" height="50"></a>
+                <a href="/" title="ELECTRO-7 General Trading LLC - Home"><img src="assets/images/footer_logo.png" alt="ELECTRO-7 General Trading LLC Logo" title="ELECTRO-7 General Trading LLC" height="50" loading="lazy"></a>
             </div>
             
             <div class="col-md-6">
                 <div class="d-flex align-items-center justify-content-md-end justify-content-center">
-                    <a class="mx-2 text-white custom_text" href="https://www.facebook.com/people/Electro7/61572615522821/" target="_blank"><i class="fa fa-facebook"></i></a>
-                    <a class="mx-2 text-white custom_text" href="https://www.linkedin.com/company/electro7-trading-technologies/" target="_blank"><i class="fa fa-linkedin" aria-hidden="true"></i></a>
+                    <a class="mx-2 text-white custom_text" href="https://www.facebook.com/people/Electro7/61572615522821/" target="_blank" title="Follow us on Facebook" rel="noopener noreferrer"><i class="fa fa-facebook"></i></a>
+                    <a class="mx-2 text-white custom_text" href="https://www.linkedin.com/company/electro7-trading-technologies/" target="_blank" title="Follow us on LinkedIn" rel="noopener noreferrer"><i class="fa fa-linkedin" aria-hidden="true"></i></a>
                     <div class="vr m-2"></div>
-                    <p class="m-0 custom_text">Partner with <a href="https://inetgcc.com" target="_blank">iNET</a></p>
+                    <p class="m-0 custom_text">Partner with <a href="https://inetgcc.com" target="_blank" title="Visit iNET GCC - Our Partner" rel="noopener noreferrer">iNET</a></p>
                 </div>
                 <div class="d-flex align-items-center justify-content-md-end justify-content-center">
                     <ul>
                         <li class="custom_text">
-                            <a class="mx-2 text-white " href="tel:+97142946335">T: +971 4 2946335</a>
+                            <a class="mx-2 text-white " href="tel:+97142946335" title="Call us at +971 4 2946335">T: +971 4 2946335</a>
                         </li>
                         <li class="custom_text">
-                            <a class="mx-2 text-white" href="mailto:info@electro7.com">E: info@electro7.com</a>
+                            <a class="mx-2 text-white" href="mailto:info@electro7.com" title="Email us at info@electro7.com">E: info@electro7.com</a>
                         </li>
                     </ul>
                 </div>
@@ -56,34 +56,7 @@
         
     </div>
 </footer>
-<!-- <footer id="footer" style="color:white; background: linear-gradient(70deg, #082D7F,#63CEFF);">
-    <div class="container py-5">
-        <div class="row">
-            <div class="col-md-4">
-                <img src="assets/images/footer_logo.png" class="img-fluid">
-            </div>
-            <div class="col-md-4">
-                <ul>
-                    <li>Home</li>
-                    <li>Home</li>
-                    <li>Home</li>
-                    <li>Home</li>
-                    <li>Contact Us</li>
-                </ul>
-            </div>
-            <div class="col-md-4">
-                <div class="social-links">
-                    <p>T: +971 4 2946335</p>
-                    <p><a href="mailto:info@electro7.com" style="color:white;">E: info@electro7.com</a></p>
-                </div>
-            </div>
-        </div>
-    </div>
-    <div class="container-fluid d-flex justify-content-center" style="background:black;">
-        <span>Electro7 2024 All Rights Reserved</span>
-    </div>
-</footer> -->
-<!-- footer section end -->
+
 <!-- Back to top button -->
 <a id="button"></a>
 <!-- footer copy right section end -->

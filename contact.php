@@ -1,5 +1,11 @@
 <?php 
-
+// SEO Meta Tags for Contact Page
+$pageTitle = "Contact Us | ELECTRO-7 GENERAL TRADING LLC | Dubai, UAE";
+$pageDescription = "Contact ELECTRO-7 General Trading LLC in Dubai, UAE. Office # 207, Garhoud star building, Al-Garhoud. Phone: +971 4 245124. Email: info@electro7.com. Get in touch for technology solutions, RTLS, RFID, Asset Management, and Solar Solutions.";
+$pageKeywords = "contact ELECTRO-7, Dubai contact, UAE trading contact, technology solutions contact, ELECTRO-7 phone, ELECTRO-7 email, Dubai office address";
+$pageImage = "https://electro7.com/assets/images/header_image.png";
+$pageUrl = "https://electro7.com/contact";
+$pageType = "website";
 
 use PHPMailer\PHPMailer\PHPMailer;
 use PHPMailer\PHPMailer\Exception;
@@ -342,7 +348,7 @@ if ($_SERVER["REQUEST_METHOD"] === "POST") {
                 <div class="col-md-12 justify-items-center">
                     <i class="fa fa-envelope" style="font-size:50px;"></i>
                     <h4 class="text-center">Email</h4>
-                    <p class="text-center custom_text"><a href="mailto:info@electro7.com">info@electro7.com</a></p>
+                    <p class="text-center custom_text"><a href="mailto:info@electro7.com" title="Email us at info@electro7.com">info@electro7.com</a></p>
                 </div>
             </div>
         </div>

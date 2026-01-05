@@ -1,4 +1,13 @@
-<?php include('header.php'); ?>
+<?php 
+// SEO Meta Tags for NEDAP Page
+$pageTitle = "NEDAP Digital Twin Solutions | Healthcare, Retail & Security | ELECTRO-7 Dubai";
+$pageDescription = "NEDAP Digital Twin technology from ELECTRO-7. Seamlessly integrates physical and digital realms across Healthcare, Retail, Security, and Livestock sectors. Available in Dubai, UAE.";
+$pageKeywords = "NEDAP, digital twin, healthcare technology, retail analytics, security solutions, livestock management, digital transformation Dubai";
+$pageImage = "https://electro7.com/assets/images/header_images/nedap.png";
+$pageUrl = "https://electro7.com/nedap";
+$pageType = "product";
+
+include('header.php'); ?>
 <?php 
 
 
@@ -13,7 +22,7 @@ include('header_image.php'); ?>
 <div class="container p-5" data-aos="fade-up" data-aos-duration="2000">
     <div class="row">
         <div class="col-md-6">
-            <img src="assets/images/product_images/nedap_1.png" class="img-fluid">
+            <img src="assets/images/product_images/nedap_1.png" alt="NEDAP Digital Twin Solutions - Pioneering Technology" title="NEDAP Digital Twin Solutions - Pioneering Technology" class="img-fluid" loading="lazy">
         </div>
         <div class="col-md-6 px-5">
             <h2 style="font-weight: bolder; font-size: 30px; " id="tdr_hdng">Pioneering Digital Twin Solutions</h2>
@@ -29,7 +38,7 @@ include('header_image.php'); ?>
 <div class="container p-5" data-aos="fade-up" data-aos-duration="2000">
     <div class="row">
         <div class="col-md-6">
-            <img src="assets/images/product_images/nedap_2.png" class="img-fluid">
+            <img src="assets/images/product_images/nedap_2.png" alt="NEDAP Technological Edge - IoT, RFID, Vision, and SaaS" title="NEDAP Technological Edge - IoT, RFID, Vision, and SaaS" class="img-fluid" loading="lazy">
         </div>
         <div class="col-md-6 px-5">
             <h2 style="font-weight: bolder; font-size: 30px; " id="tdr_hdng">Our Technological Edge</h2>

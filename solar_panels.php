@@ -1,4 +1,13 @@
-<?php include('header.php'); ?>
+<?php 
+// SEO Meta Tags for Solar Panels Page
+$pageTitle = "Solar Panels | High-Efficiency Solar Technology";
+$pageDescription = "High-efficiency Solar Panels from ELECTRO-7. Maximize energy output, reduce carbon footprint. Applications for residential, commercial, and industrial use. Available in Dubai, UAE and Gulf region.";
+$pageKeywords = "solar panels, solar energy, photovoltaic panels, solar power Dubai, renewable energy UAE, high efficiency solar, residential solar, commercial solar panels";
+$pageImage = "https://electro7.com/assets/images/header_images/solar_panels.png";
+$pageUrl = "https://electro7.com/solar_panels";
+$pageType = "product";
+
+include('header.php'); ?>
 <?php 
 
 $hasHeaderTag = true;
@@ -12,7 +21,7 @@ include('header_image.php'); ?>
 <div class="custom_container p-md-5 p-3 container_fluid" data-aos="fade-up" data-aos-duration="2000">
     <div class="row align-items-center">
         <div class="col-md-6 overlay-div">
-            <img src="assets/images/product_images/solar_panels_1.png" class="img-fluid">
+            <img src="assets/images/product_images/solar_panels_1.png" alt="High-Efficiency Solar Panels - Clean Energy Solutions" title="High-Efficiency Solar Panels - Clean Energy Solutions" class="img-fluid" loading="lazy">
         </div>
         <div class="col-md-6">
             <h2 class="custom_heading" style="font-weight: bolder; " id="tdr_hdng">Clean Energy</h2>
@@ -40,7 +49,7 @@ include('header_image.php'); ?>
 <div class="custom_container p-md-5 p-3 container_fluid" data-aos="fade-up" data-aos-duration="2000">
     <div class="row align-items-center">
         <div class="col-md-6 overlay-div">
-            <img src="assets/images/product_images/solar_panels_2.png" class="img-fluid">
+            <img src="assets/images/product_images/solar_panels_2.png" alt="Why Choose E7 Solar Panels - High Efficiency and Durability" title="Why Choose E7 Solar Panels - High Efficiency and Durability" class="img-fluid" loading="lazy">
         </div>
         <div class="col-md-6">
             <h2 class="custom_heading" style="font-weight: bolder; " id="tdr_hdng">Why Choose E7 Solar Panels?</h2>

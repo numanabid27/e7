@@ -1,4 +1,13 @@
-<?php include('header.php'); ?>
+<?php 
+// SEO Meta Tags for TGEN5 Page
+$pageTitle = "TGEN5 Security Solutions | Integrated Security Systems | ELECTRO-7 Dubai, UAE";
+$pageDescription = "TGEN5 integrated security solutions from ELECTRO-7. IP integrated security systems, retail analytics, IP audio systems, and comprehensive security solutions. Available in Dubai, UAE.";
+$pageKeywords = "TGEN5, security solutions, IP security systems, retail analytics, IP audio, integrated security, security systems Dubai";
+$pageImage = "https://electro7.com/assets/images/header_images/tgen.png";
+$pageUrl = "https://electro7.com/tgen";
+$pageType = "product";
+
+include('header.php'); ?>
 <?php 
 
 
@@ -12,7 +21,7 @@ include('header_image.php'); ?>
 <div class="container p-5" data-aos="fade-up" data-aos-duration="2000">
     <div class="row">
         <div class="col-md-6">
-            <img src="assets/images/product_images/tgen_1.png" class="img-fluid">
+            <img src="assets/images/product_images/tgen_1.png" alt="TGEN5 Security Solutions - Integrated Security Systems" title="TGEN5 Security Solutions - Integrated Security Systems" class="img-fluid" loading="lazy">
         </div>
         <div class="col-md-6 px-5">
             <h2 style="font-weight: bolder; font-size: 30px; " id="tdr_hdng">Security Solutions</h2>
@@ -46,7 +55,7 @@ include('header_image.php'); ?>
 <div class="container p-5" data-aos="fade-up" data-aos-duration="2000">
     <div class="row">
         <div class="col-md-6">
-            <img src="assets/images/product_images/tgen_2.png" class="img-fluid">
+            <img src="assets/images/product_images/tgen_2.png" alt="TGEN5 Guaranteed Reliability - Security Solutions" title="TGEN5 Guaranteed Reliability - Security Solutions" class="img-fluid" loading="lazy">
         </div>
         <div class="col-md-6 px-5">
             <h2 style="font-weight: bolder; font-size: 30px; " id="tdr_hdng">Guaranteed Reliability</h2>

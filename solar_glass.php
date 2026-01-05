@@ -1,7 +1,14 @@
-<?php include('header.php'); ?>
 <?php 
+// SEO Meta Tags for Solar Glass Page
+$pageTitle = "Solar Glass Solutions | Clean Energy Technology";
+$pageDescription = "Revolutionize your energy solutions with ELECTRO-7's Solar Glass. Innovative fusion of aesthetics and functionality. Transform windows and facades into efficient power generators. High efficiency, durability, and sustainability. Available in Dubai, UAE and Gulf region.";
+$pageKeywords = "solar glass, solar windows, photovoltaic glass, solar facades, clean energy Dubai, solar technology UAE, building integrated photovoltaics, BIPV, sustainable building solutions";
+$pageImage = "https://electro7.com/assets/images/header_images/solar_glass.png";
+$pageUrl = "https://electro7.com/solar_glass";
+$pageType = "product";
 
-
+include('header.php'); ?>
+<?php 
 
 $hasHeaderTag = true;
 $isHeading = true;
@@ -14,7 +21,7 @@ include('header_image.php'); ?>
 <div class="container_fluid custom_container p-md-5 p-3" data-aos="fade-up" data-aos-duration="2000">
     <div class="row align-items-center">
         <div class="col-md-6 overlay-div">
-            <img src="assets/images/product_images/solar_glass_1.png" class="img-fluid">
+            <img src="assets/images/product_images/solar_glass_1.png" alt="ELECTRO-7 Solar Glass - Clean Energy Solutions" title="ELECTRO-7 Solar Glass - Clean Energy Solutions" class="img-fluid" loading="lazy">
         </div>
         <div class="col-md-6">
             <h2 class="custom_heading" style="font-weight: bolder;" id="tdr_hdng">Clean Energy</h2>
@@ -44,7 +51,7 @@ include('header_image.php'); ?>
 <div class="container_fluid custom_container p-md-5 p-3" data-aos="fade-up" data-aos-duration="2000">
     <div class="row align-items-center">
         <div class="col-md-6">
-            <img src="assets/images/product_images/solar_glass_2.png" class="img-fluid">
+            <img src="assets/images/product_images/solar_glass_2.png" alt="Why Choose E7 Solar Glass - High Efficiency and Durability" title="Why Choose E7 Solar Glass - High Efficiency and Durability" class="img-fluid" loading="lazy">
         </div>
         <div class="col-md-6">
             <h2 class="custom_heading" style="font-weight: " id="tdr_hdng">Why Choose E7 Solar Glass?</h2>

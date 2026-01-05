@@ -1,4 +1,13 @@
-<?php include('header.php'); ?>
+<?php 
+// SEO Meta Tags for Water Management Page
+$pageTitle = "Water Management Solutions | RainMAN Controllers | SCADA Systems";
+$pageDescription = "RainMAN Controllers - Radio-telemetry Unit (RTU) for automated water process monitoring. Remote water management, SCADA Central Control, Evapotranspiration (ET) Management software. Available in Dubai, UAE.";
+$pageKeywords = "water management, RainMAN controllers, RTU, radio-telemetry, SCADA water management, automated irrigation, water automation, ET management, Dubai water solutions";
+$pageImage = "https://electro7.com/assets/images/header_images/rainman.png";
+$pageUrl = "https://electro7.com/water_management";
+$pageType = "product";
+
+include('header.php'); ?>
 <?php 
 
 $hasHeaderTag = true;
@@ -42,37 +51,37 @@ Looping functions are also available, providing maximum flexibility by allowing 
       <div class="col-md-3 my-1" >
          <div class="overlay-div">
              <span class="descr">Park Irrigation</span>
-             <img src="assets/images/rainman/1.png" class="img-fluid">
+             <img src="assets/images/rainman/1.png" alt="Park Irrigation - RainMAN Controllers" title="Park Irrigation - RainMAN Controllers" class="img-fluid" loading="lazy">
          </div>
       </div>
       <div class="col-md-3 my-1" >
          <div class="overlay-div">
              <span class="descr">Greenhouse Irrigation</span>
-             <img src="assets/images/rainman/2.png" class="img-fluid">
+             <img src="assets/images/rainman/2.png" alt="Greenhouse Irrigation - RainMAN Controllers" title="Greenhouse Irrigation - RainMAN Controllers" class="img-fluid" loading="lazy">
          </div>
       </div>
       <div class="col-md-3 my-1" >
          <div class="overlay-div">
              <span class="descr">Vineyard Irrigation</span>
-             <img src="assets/images/rainman/3.png" class="img-fluid">
+             <img src="assets/images/rainman/3.png" alt="Vineyard Irrigation - RainMAN Controllers" title="Vineyard Irrigation - RainMAN Controllers" class="img-fluid" loading="lazy">
          </div>
       </div>
       <div class="col-md-3 my-1" >
          <div class="overlay-div">
              <span class="descr">Dust Suppression Systems</span>
-             <img src="assets/images/rainman/4.png" class="img-fluid">
+             <img src="assets/images/rainman/4.png" alt="Dust Suppression Systems - RainMAN Controllers" title="Dust Suppression Systems - RainMAN Controllers" class="img-fluid" loading="lazy">
          </div>
       </div>
       <div class="col-md-3 my-1" >
          <div class="overlay-div">
              <span class="descr">Flooding Solutions</span>
-             <img src="assets/images/rainman/5.png" class="img-fluid">
+             <img src="assets/images/rainman/5.png" alt="Flooding Solutions - RainMAN Controllers" title="Flooding Solutions - RainMAN Controllers" class="img-fluid" loading="lazy">
          </div>
       </div>
       <div class="col-md-3 my-1" >
          <div class="overlay-div">
              <span class="descr">Flood Monitoring</span>
-             <img src="assets/images/rainman/6.png" class="img-fluid">
+             <img src="assets/images/rainman/6.png" alt="Flood Monitoring - RainMAN Controllers" title="Flood Monitoring - RainMAN Controllers" class="img-fluid" loading="lazy">
          </div>
       </div>
    </div>

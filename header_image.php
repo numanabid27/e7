@@ -67,7 +67,7 @@ if(!$hasHeaderTag){
         <div class="row">
             <div class="col-md-6 p-0">
                 <div class="image-container">
-                    <img src="<?php echo $headerImg;?>" />
+                    <img src="<?php echo $headerImg;?>" alt="<?php echo isset($pageTitle) ? htmlspecialchars($pageTitle) : 'ELECTRO-7 General Trading LLC'; ?>" title="<?php echo isset($pageTitle) ? htmlspecialchars($pageTitle) : 'ELECTRO-7 General Trading LLC'; ?>" loading="eager" />
                 </div>
             </div>
             <div class="offset-md-1 col-md-4 align-content-center">
