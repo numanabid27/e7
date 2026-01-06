@@ -56,6 +56,15 @@
     <link rel="stylesheet" type="text/css" href="assets/css/style.css">
     <link rel="stylesheet" type="text/css" href="assets/css/menu.css">
 
+    <!-- Google tag (gtag.js) --> 
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-VG7XE500K0"></script> 
+    <script>   
+        window.dataLayer = window.dataLayer || [];   
+        function gtag(){dataLayer.push(arguments);}   
+        gtag('js', new Date());   
+        gtag('config', 'G-VG7XE500K0'); 
+    </script>
+
     <script type="application/ld+json">
     {
       "@context": "https://schema.org",

@@ -1,0 +1,48 @@
+# robots.txt for electro7.com
+# This file tells search engine crawlers which pages or directories they can or cannot access
+
+# Allow all search engines to crawl the site
+User-agent: *
+Allow: /
+
+# Disallow private/system directories
+Disallow: /vendor/
+Disallow: /cgi-bin/
+Disallow: /helmet/
+Disallow: /error_log
+Disallow: /mail_error.log
+Disallow: /*.log$
+
+# Disallow old/backup files
+Disallow: /index_old.php
+
+# Allow important assets (images, CSS, JS) for better SEO
+Allow: /assets/
+
+# Sitemap location - tells search engines where to find your sitemap
+Sitemap: https://electro7.com/sitemap.xml
+
+# Specific rules for major search engines (optional but recommended)
+
+# Google Bot
+User-agent: Googlebot
+Allow: /
+Disallow: /vendor/
+Disallow: /cgi-bin/
+Disallow: /helmet/
+Disallow: /error_log
+Disallow: /mail_error.log
+
+# Bing Bot
+User-agent: Bingbot
+Allow: /
+Disallow: /vendor/
+Disallow: /cgi-bin/
+Disallow: /helmet/
+Disallow: /error_log
+Disallow: /mail_error.log
+
+# Crawl-delay (optional - tells bots to wait between requests, in seconds)
+# This helps prevent server overload
+Crawl-delay: 1
+

@@ -1,61 +1,139 @@
 <!-- footer section start -->
 <style>
-.footer-menu ul {
+/* Footer Base */
+#footer {
+    background: #000;
+    color: #fff;
+    font-size: 14px;
+}
+
+/* Logo */
+.footer_logo img {
+    max-height: 50px;
+}
+
+/* Social Icons */
+.footer-social a {
+    font-size: 16px;
+    color: #fff;
+    opacity: 0.85;
+    transition: all 0.3s ease;
+}
+
+.footer-social a:hover {
+    opacity: 1;
+    transform: translateY(-2px);
+}
+
+/* Partner Text */
+.footer-partner {
+    font-size: 13px;
+}
+
+.footer-partner a {
+    color: #fff;
+    text-decoration: underline;
+    font-weight: 700;
+}
+
+/* Contact Info */
+.footer-contact {
     list-style: none;
+    padding: 0;
+    margin: 10px 0 0;
 }
 
-.footer-menu ul li a {
-    color: white;
+.footer-contact li {
+    margin-bottom: 6px;
 }
 
+.footer-contact a {
+    color: #fff;
+    opacity: 0.85;
+    text-decoration: none;
+}
+
+.footer-contact a:hover {
+    opacity: 1;
+}
+
+/* Divider */
+.footer-divider {
+    border-color: rgba(255, 255, 255, 0.15);
+}
+
+/* Copyright */
+.footer-bottom {
+    font-size: 13px;
+    opacity: 0.7;
+}
+
+/* Vertical Divider */
 .vr {
-    display: inline-block;
-    align-self: stretch;
     width: 1px;
-    min-height: 1rem;
-    background-color: white;
-    opacity: .25;
+    height: 18px;
+    background-color: rgba(255,255,255,0.3);
 }
+
 </style>
-<footer id="footer" style="color:white; background: black;">
-   
-    
-    
+<footer id="footer">
     <div class="container-fluid px-md-5 py-5 custom_container">
-        <div class="row">
-            <div class="col-md-6 align-content-center footer_logo">
-                <a href="/" title="ELECTRO-7 General Trading LLC - Home"><img src="assets/images/footer_logo.png" alt="ELECTRO-7 General Trading LLC Logo" title="ELECTRO-7 General Trading LLC" height="50" loading="lazy"></a>
+
+        <div class="row align-items-center justify-content-between">
+            <!-- Logo -->
+            <div class="col-md-6 text-md-start mb-4 mb-md-0 footer_logo">
+                <a href="/" title="ELECTRO-7 General Trading LLC">
+                    <img src="assets/images/footer_logo.png" title="ELECTRO-7 General Trading LLC" alt="Electro7" loading="lazy">
+                </a>
             </div>
-            
-            <div class="col-md-6">
-                <div class="d-flex align-items-center justify-content-md-end justify-content-center">
-                    <a class="mx-2 text-white custom_text" href="https://www.facebook.com/people/Electro7/61572615522821/" target="_blank" title="Follow us on Facebook" rel="noopener noreferrer"><i class="fa fa-facebook"></i></a>
-                    <a class="mx-2 text-white custom_text" href="https://www.linkedin.com/company/electro7-trading-technologies/" target="_blank" title="Follow us on LinkedIn" rel="noopener noreferrer"><i class="fa fa-linkedin" aria-hidden="true"></i></a>
-                    <div class="vr m-2"></div>
-                    <p class="m-0 custom_text">Partner with <a href="https://inetgcc.com" target="_blank" title="Visit iNET GCC - Our Partner" rel="noopener noreferrer">iNET</a></p>
+
+            <!-- Right Content -->
+            <div class="col-md-2 text-md-end">
+  
+                <!-- Contact -->
+                <ul class="footer-contact mt-3">
+                    <li class="d-flex align-items-center gap-2" style="gap:12px;">
+                        <i class="fa fa-phone"></i>
+                        <a href="tel:+97142946335" title="+97142946335">+971 4 2946335</a>
+                    </li>
+
+                    <li class="d-flex align-items-center mt-2" style="gap:12px;">
+                        <i class="fa fa-envelope"></i>
+                        <a href="mailto:info@electro7.com" title="info@electro7.com">info@electro7.com</a>
+                    </li>
+                </ul>
+
+                <div class="d-flex align-items-center footer-social" style="gap:12px;">
+                    <a href="https://www.facebook.com/people/Electro7/61572615522821/" title="facebook" target="_blank">
+                        <i class="fa fa-facebook"></i>
+                    </a>
+                    <a href="https://www.linkedin.com/company/electro7-trading-technologies/" title="linkedin" target="_blank">
+                        <i class="fa fa-linkedin"></i>
+                    </a>
+                    <div class="vr"></div>
+                    <span class="footer-partner">
+                        Partner with <a href="https://inetgcc.com" title="iNET" target="_blank">iNET</a>
+                    </span>
                 </div>
-                <div class="d-flex align-items-center justify-content-md-end justify-content-center">
-                    <ul>
-                        <li class="custom_text">
-                            <a class="mx-2 text-white " href="tel:+97142946335" title="Call us at +971 4 2946335">T: +971 4 2946335</a>
-                        </li>
-                        <li class="custom_text">
-                            <a class="mx-2 text-white" href="mailto:info@electro7.com" title="Email us at info@electro7.com">E: info@electro7.com</a>
-                        </li>
-                    </ul>
-                </div>
+
             </div>
         </div>
-        
-        <hr class="my-3" style="border-color: white;">
-        <div class="row">
-            <div class="col-md-12 d-flex align-items-center justify-content-center">
-                <span class="custom_text">Electro7 - All Rights Reserved</span>
+
+        <hr class="footer-divider my-4">
+
+        <!-- Bottom -->
+        <div class="row justify-content-between">
+            <div class="col-12 footer-bottom text-center">
+                © Electro7 — All Rights Reserved
+            </div>
+            <div class="col-12 footer-bottom text-center">
+                <a href="/privacy-policy" class="text-center d-block" style="color:#fff; padding-top:10px;" title="privacy-policy">Privacy Policy</a>
             </div>
         </div>
-        
+
     </div>
 </footer>
+
 
 <!-- Back to top button -->
 <a id="button"></a>
